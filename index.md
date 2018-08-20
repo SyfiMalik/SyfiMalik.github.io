@@ -79,8 +79,6 @@ That's it. Now you will have all your configs unencrypted in your new system.
 
 
 
-
-
 If you loved the tutorial and want my configs, just sign my key and leave me an encrypted mail/message.
 
 https://keybase.io/encrypt#syfimalik
