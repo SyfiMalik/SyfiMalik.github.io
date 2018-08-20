@@ -62,6 +62,25 @@ Done. You're now secured. Let's check it out.
 
 Just delete the repo from computer, logout from keybase and clone the repo again. You'll see nothing.
 
+## How to install these configs on new system?
+
+Download required tools, gnupg, keybase, git. Login to keybase, you may have to approve this new device from other logged device if you have another device logged in. Do that and do the following.
+
+```
+$ keybase login 
+$ git clone "your github unencrypted repository"
+$ cd "new cloned repository"
+$ git config --global --add protocol.keybase.allow always
+$ git submodule update --init 
+
+```
+
+That's it. Now you will have all your configs unencrypted in your new system.
+
+
+
+
+
 If you loved the tutorial and want my configs, just sign my key and leave me an encrypted mail/message.
 
 https://keybase.io/encrypt#syfimalik
