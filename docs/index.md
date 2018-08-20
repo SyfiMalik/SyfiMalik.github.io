@@ -62,7 +62,6 @@ Done. You're now secured. Let's check it out.
 
 Just delete the repo from computer, logout from keybase and clone the repo again. You'll see nothing.
 
-<<<<<<< HEAD
 ## How to install these configs on new system?
 
 Download required tools, gnupg, keybase, git. Login to keybase, you may have to approve this new device from other logged device if you have another device logged in. Do that and do the following.
