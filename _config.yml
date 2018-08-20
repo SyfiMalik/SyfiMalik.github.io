@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-gem "jekyll-readme-index"
+#gem "jekyll-readme-index"
 plugins:
   - jekyll-readme-index
 readme_index:
